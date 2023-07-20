@@ -20,4 +20,4 @@ FITS Explorer is a Python-based project that allows users to explore and analyze
 1. Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your_username/FITS-Explorer.git
+https://github.com/JunoJupyter/Astronomical-Data-Analysis.git
